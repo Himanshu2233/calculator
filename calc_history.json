@@ -3,5 +3,35 @@
     "expression": "5 + 5",
     "result": "10",
     "timestamp": "2026-09-17 13:48:31"
+  },
+  {
+    "expression": "3 + 5 * 2",
+    "result": "13",
+    "timestamp": "2026-09-17 14:03:31"
+  },
+  {
+    "expression": "(100 - 20) / 4",
+    "result": "20",
+    "timestamp": "2026-09-17 14:03:31"
+  },
+  {
+    "expression": "sqrt(144) + pi",
+    "result": "15.14159265",
+    "timestamp": "2026-09-17 14:03:31"
+  },
+  {
+    "expression": "2 ** 10",
+    "result": "1024",
+    "timestamp": "2026-09-17 14:03:31"
+  },
+  {
+    "expression": "(7 % 3) * 5 + log(1000)",
+    "result": "8",
+    "timestamp": "2026-09-17 14:03:31"
+  },
+  {
+    "expression": "5 + 5 - 12 + 20 * 12",
+    "result": "238",
+    "timestamp": "2026-09-17 14:04:56"
   }
 ]
